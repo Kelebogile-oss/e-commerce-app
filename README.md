@@ -51,7 +51,7 @@ Build a proof-of-concept e-commerce store using Angular, .NET, and Stripe for pa
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/e-commerce-app.git
+   git clone https://github.com/Kelebogile-oss/e-commerce-app.git
    cd e-commerce-app
    ```
 2. Set up the backend:
